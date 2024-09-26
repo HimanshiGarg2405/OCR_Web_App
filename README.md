@@ -14,4 +14,4 @@ Clone the repository or download the files.
 
 ```bash
 git clone https://github.com/HimanshiGarg2405/OCR_Web_App.git
-cd ocr_web_app
+cd OCR_Web_App
